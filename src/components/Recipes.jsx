@@ -12,8 +12,8 @@ const elvenGountletsRecipe = {
   refinedMoonstone: 5,
 };
 
-// console.log(elvenShieldRecipe);
-// console.log(elvenGountletsRecipe);
+console.log(elvenShieldRecipe);
+console.log(elvenGountletsRecipe);
 
 function Recipes() {
   const [recipe, setRecipe] = useState({});
